@@ -14,3 +14,4 @@ A simple php telegram bot to check if the bin is valid or not!
 
 **AFTER THIS REMOVE YOUR BOT TOKEN FROM THE REPO FOR YOUR SAFTEY**
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anonymouscoderboy/Bin-Checker)
